@@ -9,4 +9,4 @@
 - [ ] Agregar enlaces de referencia. (?)
 - [ ] Agregar instrucciones detalladas de DNS. (?)
 - [ ] Incluir información de como agregar nodos adicionales.
-- [ ] Agregar consideraciones para lectura desde los nodos.
+- [ ] Agregar endpoint de lectura y redirector de conexiones.
